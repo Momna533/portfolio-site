@@ -22,13 +22,13 @@ A professional portfolio website showcasing skills, projects, and contact inform
 
 ## Deployment
 
-- Live Demo: [Demo Link Here]
-- GitHub Repo: [Repo Link Here]
+- Live Demo: [\[Demo Link Here\]](https://portfolio-site-nine-lovat.vercel.app/)
+- GitHub Repo: [\[Repo Link Here\]](https://github.com/Momna533/portfolio-site)
 
 ## Screenshots
 
-- Desktop view
-- Mobile view
+![Desktop Screenshot](portfolio-desktop.png)
+![Mobile Screenshot](portfolio-mobile.png)
 
 ## Author
 
